@@ -1,0 +1,31 @@
+.reflinks {
+    text-decoration: underline;
+    color: #00f
+}
+
+.reflinks:hover {
+ text-decoration: none;
+}
+
+.reflinks:visited {
+    text-decoration: underline;
+    color: #005
+}
+
+#bold {
+    font-weight: bold;
+}
+
+h1 {
+    font-style: oblique;
+}
+
+.upcase {
+    text-transform: uppercase;
+}
+
+ul.kvadrat {
+    list-style-type: square;
+}
+
+
