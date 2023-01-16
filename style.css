@@ -1,0 +1,59 @@
+.reflinks {
+    text-decoration: underline;
+    color: #00f
+}
+
+.reflinks:hover {
+ text-decoration: none;
+}
+
+.reflinks:visited {
+    text-decoration: underline;
+    color: #005
+}
+
+#bold {
+    font-weight: bold;
+}
+
+h1 {
+    font-style: oblique;
+}
+
+.upcase {
+    text-transform: uppercase;
+    background-color: #80ced6;
+}
+
+ul.kvadrat {
+    list-style-type: square;
+}
+
+#zhir {
+    font-weight: bold;
+}
+
+table {
+    background-color: #d5f4e6;
+}
+
+h1 {
+    border-bottom: 2px solid #ECEBBD;
+}
+
+img {
+    border: 2px solid #ECEBBD;
+    padding: 10px;
+}
+
+p {
+    border-bottom: 2px solid #ECEBBD;
+}
+
+ul {
+    border-bottom: 2px solid #ECEBBD;
+}
+
+ol {
+    border-bottom: 2px solid #ECEBBD;
+}
